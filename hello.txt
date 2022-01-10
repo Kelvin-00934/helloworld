@@ -1,0 +1,9 @@
+This is Kelvin.
+
+Today's date is Mon 10th Jan 2022
+
+This is my first git repo
+
+Hurray!!
+
+Lets Go!
